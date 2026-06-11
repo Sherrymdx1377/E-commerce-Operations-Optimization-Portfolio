@@ -81,5 +81,3 @@ The main operational scenario is an e-commerce fulfillment process where custome
 ## Key Outcomes
 
 This project demonstrates how operational data, process mapping, forecasting, quality tools, and automation planning can be combined to improve e-commerce fulfillment performance. The recommendations focus on reducing delivery delays, improving order accuracy, strengthening inventory control, increasing visibility across teams, and supporting better decision-making through dashboards and automation.
-
-Shaghayegh Haghbin
